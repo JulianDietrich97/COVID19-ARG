@@ -15,9 +15,12 @@ Expanding upon this primary hypothesis, three additional hypotheses are proposed
 
   •	Hypothesis 1: "There exists a significant and negative correlation between the vaccination rate and the number of COVID-19 cases."
   
+  
   •	Hypothesis 2: "There exists a significant and negative correlation between the proportion of immunized individuals and the number of COVID-19 cases."
   
+  
   •	Hypothesis 3: "Both relationships are characterized by a specific delay during which a maximum negative correlation is observed. 
+  
   
 This delay represents the time it takes for individual and collective immunization to have a noticeable impact at the population level."
 
