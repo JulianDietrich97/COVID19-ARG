@@ -34,14 +34,19 @@ In the notebook.
 
 ## Conclusion
 According to the analysis conducted, evidence has been obtained that supports the hypothesis posited, which asserts that the implementation of vaccination programs is associated with a significant reduction in COVID-19 cases in the Argentine population. Additionally, it has been concluded that there is a negative and statistically significant correlation between vaccination coverage in the population, measured in terms of the proportion of immunized individuals per 100 persons, and the incidence of COVID-19 cases in the country. This correlation has been assessed considering a one-year lag in the analyzed data.
+
 Both SARIMAX models exhibited similar evaluation metrics, although the model with the exogenous variable appeared to perform slightly better. While both models successfully captured and replicated the observed seasonality in the original data, I would recommend ongoing real-time assessment to observe how each model responds. This is done to determine which one performs better in forecasting.
 
 ## Applications of the Model:
 Time series models are highly valuable in various applications and can be beneficial across a range of sectors. To mention some ideas for potential applications and potential target markets:
+
   -*Government and Public Health:* Sale or collaboration with the Ministry of Health in Argentina to enhance case predictions and plan more effective responses. Assisting in decision-making regarding restrictions and social distancing measures.
+  
   -*Pharmaceutical Industry:* Collaboration with pharmaceutical companies that can utilize the predictions for pharmaceutical and vaccine production planning.
+  
   -*Insurance Companies:* Sales to insurance companies to aid in risk assessment and estimation of medical service demand.
   -Universities and Research Institutions: Sale or collaboration with academic institutions to enhance research on disease spread and public response.
+  
   -*Media Outlets:* Collaboration with media outlets to provide updated forecasts and analysis on the COVID-19 situation in Argentina.
   
 ## Bibliography:
