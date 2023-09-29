@@ -28,3 +28,32 @@ This delay represents the time it takes for individual and collective immunizati
 The data were obtained from the vaccination dataset provided by Our World in Data [18], which utilizes the most recent official figures from government health ministries worldwide.
 Correlation analyses were conducted among the selected variables, and regression models were proposed.
 Finally, a time series analysis was performed, and two SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Variable) models were estimated—one with an exogenous variable and another without an exogenous variable.
+
+## Results and Discussion
+In the notebook.
+
+## Conclusion
+According to the analysis conducted, evidence has been obtained that supports the hypothesis posited, which asserts that the implementation of vaccination programs is associated with a significant reduction in COVID-19 cases in the Argentine population. Additionally, it has been concluded that there is a negative and statistically significant correlation between vaccination coverage in the population, measured in terms of the proportion of immunized individuals per 100 persons, and the incidence of COVID-19 cases in the country. This correlation has been assessed considering a one-year lag in the analyzed data.
+Both SARIMAX models exhibited similar evaluation metrics, although the model with the exogenous variable appeared to perform slightly better. While both models successfully captured and replicated the observed seasonality in the original data, I would recommend ongoing real-time assessment to observe how each model responds. This is done to determine which one performs better in forecasting.
+
+## Applications of the Model:
+Time series models are highly valuable in various applications and can be beneficial across a range of sectors. To mention some ideas for potential applications and potential target markets:
+  -*Government and Public Health:* Sale or collaboration with the Ministry of Health in Argentina to enhance case predictions and plan more effective responses. Assisting in decision-making regarding restrictions and social distancing measures.
+  -*Pharmaceutical Industry:* Collaboration with pharmaceutical companies that can utilize the predictions for pharmaceutical and vaccine production planning.
+  -*Insurance Companies:* Sales to insurance companies to aid in risk assessment and estimation of medical service demand.
+  -Universities and Research Institutions: Sale or collaboration with academic institutions to enhance research on disease spread and public response.
+  -*Media Outlets:* Collaboration with media outlets to provide updated forecasts and analysis on the COVID-19 situation in Argentina.
+  
+## Bibliography:
+Boopathi S, Poma AB, Kolandaivel P. Novel 2019 coronavirus structure, mechanism of action, antiviral drug promises and rule out against its treatment. J Biomol Struct Dyn. 2021 Jun;39(9):3409-3418. doi: 10.1080/07391102.2020.1758788. Epub 2020 Apr 30. PMID: 32306836; PMCID: PMC7196923.
+
+Caldas, L.A., Carneiro, F.A., Higa, L.M. et al. Ultrastructural analysis of SARS-CoV-2 interactions with the host cell via high resolution scanning electron microscopy. Sci Rep 10, 16099 (2020). https://doi.org/10.1038/s41598-020-73162-5 Caldas, L.A., 
+
+Li Z, Liu X, Liu M, Wu Z, Liu Y, Li W, Liu M, Wang X, Gao B, Luo Y, et al. The Effect of the COVID-19 Vaccine on Daily Cases and Deaths Based on Global Vaccine Data. Vaccines. 2021; 9(11):1328. https://doi.org/10.3390/vaccines9111328
+
+Yamin, M. (2020). Counting the cost of COVID‐19. International Journal of Information Technology, 12(2), 311–317. 10.1007/s41870-020-00466-0 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Estadísticas de COVID19: https://www.statista.com/statistics/
+DATA: https://github.com/owid/covid-19-data/tree/master/public/data
+
+
