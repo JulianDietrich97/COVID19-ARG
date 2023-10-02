@@ -42,6 +42,10 @@ Quantitative evaluation of the models was based on key metrics, including the Me
 
 Finally, both models share similar characteristics in terms of autocorrelation in the residuals and skewness in the distribution. However, the model with the exogenous variable appears to have a better normality of the residuals (though not perfect) and less evidence of heteroscedasticity compared to the model without the exogenous variable.
 
+The SARIMAX model, incorporating an exogenous variable, demonstrates a remarkable ability to discern and quantify the impact of this variable on the dynamics of cases. This capacity parallels previous observations made through a linear regression analysis. In particular, it is evident that an increase in the rate of growth of the exogenous variable (i.e., the number of individuals fully immunized per 100 inhabitants) positively correlates with an increase in the observed negative trend in the time series of COVID-19 cases. 
+
+![Presentación Proyecto Investigación Geométrico Profesional Azul Verde](https://github.com/JulianDietrich97/COVID19-ARG/assets/117474938/d036f3dc-9eae-4cbc-a134-db876757c1eb)
+
 ## Conclusion
 According to the analysis conducted, evidence has been obtained that supports the hypothesis posited, which asserts that the implementation of vaccination programs is associated with a significant reduction in COVID-19 cases in the Argentine population. Additionally, it has been concluded that there is a negative and statistically significant correlation between vaccination coverage in the population, measured in terms of the proportion of immunized individuals per 100 persons, and the incidence of COVID-19 cases in the country. This correlation has been assessed considering a one-year lag in the analyzed data.
 
