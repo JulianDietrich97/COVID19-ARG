@@ -4,7 +4,9 @@
 ## Introduction:
 Over the past two decades, the world has witnessed various outbreaks of infectious diseases. The Ebola virus, Influenza A (H1N1), SARS, MERS, and the Zika virus have had a significant global impact in terms of economic disruption and public health on both local and global scales.
 By late 2019, the outbreak of the novel coronavirus 2019 (SARS-CoV-2) emerged. This virus, a member of the Coronaviridae family, was first discovered and isolated in the city of Wuhan, China. SARS-CoV-2 possesses a viral envelope and is classified as a single-stranded positive-sense RNA virus.
+
 SARS-CoV-2 was initially identified from patient samples on December 31, 2019. In March 2020, the World Health Organization (WHO) named the disease caused by this virus COVID-19. Due to its global implications, COVID-19 was declared a pandemic.
+
 As of August 2023, approximately 769 million cases of coronavirus have been recorded worldwide, with an estimated 7 million deaths on a global scale.
 As highlighted in the research published in the Vaccine journal in 2021, “Previous studies have shown that vaccine, as a powerful weapon to control an infectious disease, can notably allay or defeat diseases caused by pathogens”. There are numerous examples that support this statement, such as Smallpox, Polio, Measles, among others.
 
