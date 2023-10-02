@@ -1,4 +1,7 @@
 # Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina. 
+![Presentación Proyecto Investigación Geométrico Profesional Azul Verde](https://github.com/JulianDietrich97/COVID19-ARG/assets/117474938/87394029-8a3c-4a64-93cc-d6baaf8ff649)
+
+
 ####  Correlation analysis, regression analysis & time serie analysis
 
 ## Introduction:
@@ -42,7 +45,7 @@ Quantitative evaluation of the models was based on key metrics, including the Me
 
 Finally, both models share similar characteristics in terms of autocorrelation in the residuals and skewness in the distribution. However, the model with the exogenous variable appears to have a better normality of the residuals (though not perfect) and less evidence of heteroscedasticity compared to the model without the exogenous variable.
 
-The SARIMAX model, incorporating an exogenous variable, demonstrates a remarkable ability to discern and quantify the impact of this variable on the dynamics of cases. This capacity parallels previous observations made through a linear regression analysis. In particular, it is evident that an increase in the rate of growth of the exogenous variable (i.e., the number of individuals fully immunized per 100 inhabitants) positively correlates with an increase in the observed negative trend in the time series of COVID-19 cases. 
+The SARIMAX model incorporating an exogenous variable, demonstrates a remarkable ability to discern and quantify the impact of this variable on the dynamics of cases. This capacity parallels previous observations made through a linear regression analysis. In particular, it is evident that an increase in the rate of growth of the exogenous variable (i.e., the number of individuals fully immunized per 100 inhabitants) positively correlates with an increase in the observed negative trend in the time series of COVID-19 cases,as illustrated in the following image.
 
 ![Presentación Proyecto Investigación Geométrico Profesional Azul Verde](https://github.com/JulianDietrich97/COVID19-ARG/assets/117474938/d036f3dc-9eae-4cbc-a134-db876757c1eb)
 
