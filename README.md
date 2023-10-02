@@ -33,6 +33,14 @@ Finally, a time series analysis was performed, and two SARIMAX (Seasonal Autoreg
 
 ## Results and Discussion
 In the notebook.
+### SARIMAX models comparisson:
+Both SARIMAX models demonstrated remarkable ability to capture the observed seasonal pattern in the original data and replicate it in subsequent predictions. This capacity to accurately reproduce seasonal fluctuations is crucial for effective forecasting. 
+
+A significant difference was observed in the trends identified by the two SARIMAX models. The SARIMAX model without exogenous variables exhibited a more pronounced negative trend compared to the model that incorporated the considered exogenous variable.
+
+Quantitative evaluation of the models was based on key metrics, including the Mean Squared Error (MSE) and the Akaike Information Criterion (AIC). It was observed that the SARIMAX model incorporating the exogenous variable exhibited lower values in terms of MSE and AIC compared to the model that did not include this variable. These results indicate a better fit and greater explanatory power of the SARIMAX model with the analyzed exogenous variable.
+
+Finally, both models share similar characteristics in terms of autocorrelation in the residuals and skewness in the distribution. However, the model with the exogenous variable appears to have a better normality of the residuals (though not perfect) and less evidence of heteroscedasticity compared to the model without the exogenous variable.
 
 ## Conclusion
 According to the analysis conducted, evidence has been obtained that supports the hypothesis posited, which asserts that the implementation of vaccination programs is associated with a significant reduction in COVID-19 cases in the Argentine population. Additionally, it has been concluded that there is a negative and statistically significant correlation between vaccination coverage in the population, measured in terms of the proportion of immunized individuals per 100 persons, and the incidence of COVID-19 cases in the country. This correlation has been assessed considering a one-year lag in the analyzed data.
