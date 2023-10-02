@@ -1,7 +1,6 @@
 # Delayed Correlation: Vaccination and SARS-CoV-2 in Argentina. 
-![Uploading Presentación Proyecto Investigación Geométrico Profesional Azul Verde (1).png…]()
 
-
+![Presentación Proyecto Investigación Geométrico Profesional Azul Verde (1)](https://github.com/JulianDietrich97/COVID19-ARG/assets/117474938/60b61710-4333-46e3-b440-235db23adefc)
 
 ####  Correlation analysis, regression analysis & time serie analysis
 
