@@ -35,7 +35,7 @@ Correlation analyses were conducted among the selected variables, and regression
 Finally, a time series analysis was performed, and two SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Variable) models were estimated—one with an exogenous variable and another without an exogenous variable.
 
 ## Results and Discussion
-In the notebook.
+Found in Covid-19 Argentina.ipynb file.
 ### SARIMAX models comparisson:
 Both SARIMAX models demonstrated remarkable ability to capture the observed seasonal pattern in the original data and replicate it in subsequent predictions. This capacity to accurately reproduce seasonal fluctuations is crucial for effective forecasting. 
 
