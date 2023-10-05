@@ -3,6 +3,7 @@
 ![Presentación Proyecto Investigación Geométrico Profesional Azul Verde (1)](https://github.com/JulianDietrich97/COVID19-ARG/assets/117474938/60b61710-4333-46e3-b440-235db23adefc)
 
 ####  Correlation analysis, regression analysis & time serie analysis
+#####  DOI:10.13140/RG.2.2.24086.73286
 
 ## Introduction:
 Over the past two decades, the world has witnessed various outbreaks of infectious diseases. The Ebola virus, Influenza A (H1N1), SARS, MERS, and the Zika virus have had a significant global impact in terms of economic disruption and public health on both local and global scales.
